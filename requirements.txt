@@ -1,5 +1,5 @@
 bs4
-factur-x
+factur-x>=2.3,<=3.16
 unidecode
 opencv-python
 pymupdf
