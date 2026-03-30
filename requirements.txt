@@ -1,6 +1,6 @@
 frappe
 bs4
-factur-x>=2.3
+factur-x>=2.3,<=3.16
 unidecode
 opencv-python
 pymupdf
